@@ -1,0 +1,310 @@
+[
+    {
+        "paperState": "draft",
+        "_id": "66152f53b0a915e75c425dd6",
+        "paperName": "The Future of Renewable Energy: Solar Power Innovations",
+        "paperLocation": "San Diego, CA, USA",
+        "paperAuthor": "Dr. Lucas Grant",
+        "reviewers": [
+            {
+                "_id": "66152f53b0a915e75c425dd7",
+                "name": "Prof. Maria Gonzalez",
+                "overallScore": 94,
+                "privateComments": "Excellent review of current technologies and potential future advancements."
+            },
+            {
+                "_id": "66152f53b0a915e75c425dd8",
+                "name": "Dr. Henry Ford",
+                "overallScore": 90,
+                "privateComments": "Could benefit from a deeper analysis on the economic impact."
+            }
+        ],
+        "totalMarks": 184,
+        "isApproved": false,
+        "overallReview": "change",
+        "paperStatus": "UNDER REVIEW",
+        "createdAt": "2024-04-09T12:06:43.673Z",
+        "updatedAt": "2024-04-14T09:57:46.585Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661baba18f029a156a60948d",
+        "paperName": "Innovations in Wind Energy Technology",
+        "paperLocation": "Austin, TX, USA",
+        "paperAuthor": "Dr. Emily White",
+        "reviewers": [
+            {
+                "_id": "66152f53b0a915e75c425de7",
+                "name": "Prof. Alan Brown",
+                "overallScore": 3,
+                "privateComments": "Detailed analysis on blade efficiency improvements."
+            },
+            {
+                "_id": "66152f53b0a915e75c425de8",
+                "name": "Dr. Sophia Lee",
+                "overallScore": 4,
+                "privateComments": "Needs more comparative data with solar technologies."
+            }
+        ],
+        "totalMarks": 7,
+        "isApproved": true,
+        "overallReview": "needs revision",
+        "paperStatus": "ACCEPTED",
+        "createdAt": "2024-04-14T10:10:41.972Z",
+        "updatedAt": "2024-04-14T10:10:41.972Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661babb68f029a156a609491",
+        "paperName": "Future of Hydropower: Trends and Developments",
+        "paperLocation": "Boston, MA, USA",
+        "paperAuthor": "Dr. Michael Brown",
+        "reviewers": [
+            {
+                "_id": "66152f53b0a915e75c425df7",
+                "name": "Dr. Lisa Ray",
+                "overallScore": 2,
+                "privateComments": "Lacks newer case studies from last 5 years."
+            },
+            {
+                "_id": "66152f53b0a915e75c425df8",
+                "name": "Prof. James Moore",
+                "overallScore": 3,
+                "privateComments": "Well-written, but overemphasizes European data."
+            }
+        ],
+        "totalMarks": 5,
+        "isApproved": false,
+        "overallReview": "update required",
+        "paperStatus": "REJECTED",
+        "createdAt": "2024-04-14T10:11:02.395Z",
+        "updatedAt": "2024-04-14T10:11:02.395Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661babf68f029a156a609496",
+        "paperName": "Solar Energy and Global Markets",
+        "paperLocation": "San Francisco, CA, USA",
+        "paperAuthor": "Dr. Olivia Harris",
+        "reviewers": [
+            {
+                "_id": "66152f53b0a915e75c426dd7",
+                "name": "Prof. Richard Taylor",
+                "overallScore": 5,
+                "privateComments": "Excellent market analysis and projections."
+            },
+            {
+                "_id": "66152f53b0a915e75c426dd8",
+                "name": "Dr. Sarah Miller",
+                "overallScore": 5,
+                "privateComments": "Very informative with substantial empirical data."
+            }
+        ],
+        "totalMarks": 10,
+        "isApproved": true,
+        "overallReview": "excellent",
+        "paperStatus": "ACCEPTED",
+        "createdAt": "2024-04-14T10:12:06.512Z",
+        "updatedAt": "2024-04-14T10:12:06.512Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661babff8f029a156a60949a",
+        "paperName": "Geothermal Energy: Extraction and Usage",
+        "paperLocation": "Seattle, WA, USA",
+        "paperAuthor": "Dr. William Clark",
+        "reviewers": [
+            {
+                "_id": "66152f53b0a915e76c425dd7",
+                "name": "Dr. Charlotte Green",
+                "overallScore": 4,
+                "privateComments": "Innovative approaches to heat extraction discussed."
+            },
+            {
+                "_id": "66152f53b0a915e76c425dd8",
+                "name": "Prof. Daniel Smith",
+                "overallScore": 3,
+                "privateComments": "Could improve by adding cost analysis."
+            }
+        ],
+        "totalMarks": 7,
+        "isApproved": true,
+        "overallReview": "good",
+        "paperStatus": "ACCEPTED",
+        "createdAt": "2024-04-14T10:12:15.824Z",
+        "updatedAt": "2024-04-14T10:12:15.824Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661bac098f029a156a60949e",
+        "paperName": "Bioenergy Resources and Sustainability",
+        "paperLocation": "Denver, CO, USA",
+        "paperAuthor": "Dr. Ava Wilson",
+        "reviewers": [
+            {
+                "_id": "66152f53b0a915e85c425dd7",
+                "name": "Prof. Ethan Johnson",
+                "overallScore": 2,
+                "privateComments": "Requires more detailed analysis on long-term impacts."
+            },
+            {
+                "_id": "66152f53b0a915e85c425dd8",
+                "name": "Dr. Mia Davis",
+                "overallScore": 3,
+                "privateComments": "Solid research but too narrow in scope."
+            }
+        ],
+        "totalMarks": 5,
+        "isApproved": false,
+        "overallReview": "requires expansion",
+        "paperStatus": "REJECTED",
+        "createdAt": "2024-04-14T10:12:25.544Z",
+        "updatedAt": "2024-04-14T10:12:25.544Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661bac138f029a156a6094a2",
+        "paperName": "Nuclear Fusion: A Dream or Near Reality?",
+        "paperLocation": "Chicago, IL, USA",
+        "paperAuthor": "Dr. Mason Thompson",
+        "reviewers": [
+            {
+                "_id": "76152f53b0a915e75c425dd7",
+                "name": "Dr. Evelyn King",
+                "overallScore": 4,
+                "privateComments": "Very optimistic view, lacks critical risk analysis."
+            },
+            {
+                "_id": "76152f53b0a915e75c425dd8",
+                "name": "Prof. Alexander White",
+                "overallScore": 4,
+                "privateComments": "Comprehensive review of current technologies."
+            }
+        ],
+        "totalMarks": 8,
+        "isApproved": true,
+        "overallReview": "very good",
+        "paperStatus": "ACCEPTED",
+        "createdAt": "2024-04-14T10:12:35.372Z",
+        "updatedAt": "2024-04-14T10:12:35.372Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661bac1c8f029a156a6094a6",
+        "paperName": "The Impact of Renewable Energy on Wildlife",
+        "paperLocation": "Phoenix, AZ, USA",
+        "paperAuthor": "Dr. Amelia Bell",
+        "reviewers": [
+            {
+                "_id": "86152f53b0a915e75c425dd7",
+                "name": "Prof. Benjamin Carter",
+                "overallScore": 3,
+                "privateComments": "Insightful, yet needs more data on mitigation strategies."
+            },
+            {
+                "_id": "86152f53b0a915e75c425dd8",
+                "name": "Dr. Lucas Brown",
+                "overallScore": 3,
+                "privateComments": "Well-documented cases but lacks broader geographic scope."
+            }
+        ],
+        "totalMarks": 6,
+        "isApproved": false,
+        "overallReview": "review needed",
+        "paperStatus": "REJECTED",
+        "createdAt": "2024-04-14T10:12:44.109Z",
+        "updatedAt": "2024-04-14T10:12:44.109Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661bac248f029a156a6094aa",
+        "paperName": "Renewable Energy Policies and Legislation",
+        "paperLocation": "Miami, FL, USA",
+        "paperAuthor": "Dr. Harper Lee",
+        "reviewers": [
+            {
+                "_id": "96152f53b0a915e75c425dd7",
+                "name": "Dr. Zoe Wright",
+                "overallScore": 5,
+                "privateComments": "Excellent coverage of international laws."
+            },
+            {
+                "_id": "96152f53b0a915e75c425dd8",
+                "name": "Prof. Logan Taylor",
+                "overallScore": 5,
+                "privateComments": "Thorough and insightful analysis."
+            }
+        ],
+        "totalMarks": 10,
+        "isApproved": true,
+        "overallReview": "outstanding",
+        "paperStatus": "ACCEPTED",
+        "createdAt": "2024-04-14T10:12:52.634Z",
+        "updatedAt": "2024-04-14T10:12:52.634Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661bac2f8f029a156a6094ae",
+        "paperName": "Hydrogen as a Renewable Resource",
+        "paperLocation": "Houston, TX, USA",
+        "paperAuthor": "Dr. Chloe Martinez",
+        "reviewers": [
+            {
+                "_id": "a6152f53b0a915e75c425dd7",
+                "name": "Prof. Lily Anderson",
+                "overallScore": 3,
+                "privateComments": "Needs more technical depth on production methods."
+            },
+            {
+                "_id": "a6152f53b0a915e75c425dd8",
+                "name": "Dr. Elijah Harris",
+                "overallScore": 2,
+                "privateComments": "Good introductory material, lacks depth."
+            }
+        ],
+        "totalMarks": 5,
+        "isApproved": false,
+        "overallReview": "basic",
+        "paperStatus": "REJECTED",
+        "createdAt": "2024-04-14T10:13:03.388Z",
+        "updatedAt": "2024-04-14T10:13:03.388Z",
+        "__v": 0
+    },
+    {
+        "paperState": "published",
+        "_id": "661bac388f029a156a6094b2",
+        "paperName": "Advancements in Offshore Wind Energy",
+        "paperLocation": "San Diego, CA, USA",
+        "paperAuthor": "Dr. Grace Thompson",
+        "reviewers": [
+            {
+                "_id": "b6152f53b0a915e75c425dd7",
+                "name": "Dr. Jackson Lee",
+                "overallScore": 5,
+                "privateComments": "In-depth exploration of new technologies and their impact."
+            },
+            {
+                "_id": "b6152f53b0a915e75c425dd8",
+                "name": "Prof. Mateo Robinson",
+                "overallScore": 4,
+                "privateComments": "Excellent analysis, though more case studies would be beneficial."
+            }
+        ],
+        "totalMarks": 9,
+        "isApproved": true,
+        "overallReview": "excellent",
+        "paperStatus": "ACCEPTED",
+        "createdAt": "2024-04-14T10:13:12.808Z",
+        "updatedAt": "2024-04-14T10:13:12.808Z",
+        "__v": 0
+    }
+]

@@ -1,0 +1,42 @@
+i. An organizer of the conference (conference organizers have administrator rights), signs into their
+online account and sees the review status of all papers. Details they can view for each paper are:
+reviewers name, overall score (2 accept to -2 reject), review details, private comments to other
+reviewers and conference organizers. They can choose to sort based on review score.
+
+to do:
+admin signin and review - finished backend
+review details: reviewers name, overall score , review details, private comments from reviewers,conference organizers 
+frontend - sort based on review score
+
+
+ii. The organizer has the option to accept or reject a paper. It should also be possible to sort the
+papers based on the reject/accept status of papers. When accepting/rejecting a paper, the
+organizer also provides a brief metareview explaining their overall recommendation. This can be
+saved in draft format for future editing. During this process the paper review is hidden from
+authors. When the organizer clicks submit all reviews and the final accept/reject decision are visible
+to the paper author.
+
+to do:
+frontend-button for The organizer has the option to accept or reject a paper
+frontend-sort based om the accept or reject 
+overall review for the paper - draft or publish - finished backend api
+When the organizer clicks submit all reviews and the final accept/reject decision are visible to the paper author. - finished backend api
+
+
+to do :
+login backend - done
+download of pdfs
+about us page , profile - css - ajay
+
+ day: {
+      type: String,
+      required: true,
+      enum: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+    },
+    isAvailable:{type:Boolean,required:true},
+    openTime:{type:String,required:true},
+    closeTime:{type:String,required:true},
+    threashold:{type:Number,required:true,default:15},
+    fraction:{type:Number,required:true,default:15},
+    slots: [{type:String,required:true}]
+ 
